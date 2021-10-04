@@ -1,3 +1,25 @@
+/* Основной цвет текста #757575; */
+/* Дополнительный цвет текста (заголовки) #212121; */
+/* Фон героя и футера #2F303A; */
+/* фон секции 1 и портфолио #E5E5E5; */
+/* Фон секции2 #F5F4FA; */
+
+
+
+
+
+
+
 .list {
   list-style: none;
 }
+ body{
+  font-family: roboto; sans-serif;
+  font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+}
+
+
