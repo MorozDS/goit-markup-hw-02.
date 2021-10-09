@@ -3,7 +3,7 @@
 /* Фон героя и футера #2F303A; */
 /* фон секции 1 и портфолио #E5E5E5; */
 /* Фон секции2 #F5F4FA; */
-
+/* цвет активный #2196F3 */
 
 
 
@@ -20,6 +20,59 @@ font-weight: normal;
 font-size: 14px;
 line-height: 24px;
 letter-spacing: 0.03em;
+background-color: #E5E5E5;
 }
 
+.logo {
+  font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
 
+letter-spacing: 0.03em;
+color: #2196F3;
+
+}
+.logo .studio {
+  color: black;
+}
+a { text-decoration:none;}
+
+
+/* навигация сайта */
+.site-nav a {
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+
+}
+.site-nav a:hover, .site-nav a:focus { outline: none;
+color: #2196F3;
+}
+
+.site-contact a {
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+
+}
+.site-contact a:hover, .site-contact a:focus { outline: none;
+color: #2196F3;
+}
+.current a {
+  color: #2196F3;
+}
