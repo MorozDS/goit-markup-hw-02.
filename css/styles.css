@@ -42,7 +42,9 @@ color: var(--action-color);
 }
 a { text-decoration:none;}
 
-
+.header {
+  background-color: #FFFFFF;
+}
 
  
 
@@ -175,7 +177,7 @@ text-align: center;
 
 .address a {
 
-font-style: normal;
+font-style: inherit;
 color: rgba(255, 255, 255, 0.6);
 
 .address a:hover, .address a:focus {
